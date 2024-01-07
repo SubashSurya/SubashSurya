@@ -2,8 +2,8 @@
 -    I’m @SubashSurya
 - 👀 Technologies and interests
 -    ![Web Development](https://img.shields.io/badge/-🌐%20Web%20Development-333333) ![App Development](https://img.shields.io/badge/-📱%20App%20Development-333333) ![Networking](https://img.shields.io/badge/-🌐%20Networking-333333) ![AI](https://img.shields.io/badge/-🤖%20Artificial%20Intelligence-333333) ![ML](https://img.shields.io/badge/-🧠%20Machine%20Learning-333333)  
+- 🛠️Skills
 -    CLOUD - TIBCO,KAFKA
-- Skills
 -    JCL,VSAM,COBOL,DB2   
 - 🌱 I’m currently learning
 -    MAINFRAME OPERATIONS
